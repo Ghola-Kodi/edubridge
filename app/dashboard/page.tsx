@@ -7,8 +7,8 @@ import { useRouter } from "next/navigation";
 export default function Dashboard() {
   const router = useRouter();
   const { user, checkAuth } = useAuthStore();
-  const [consultations, setConsultations] = useState([]);
-  const [files, setFiles] = useState([]);
+  const [consultations, setConsultations] = useState<any[]>([]);
+  const [files, setFiles] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {

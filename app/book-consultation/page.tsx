@@ -23,7 +23,18 @@ export default function BookConsultation() {
   const params = useSearchParams();
   const preFounder = params.get("founder") ?? "helen";
   const [success, setSuccess] = useState(false);
-  const { register, handleSubmit, reset } = useForm({
+  interface FormValues {
+    name: string;
+    email: string;
+    phone?: string;
+    service: string;
+    founder: string;
+    date: string;
+    timeSlot: string;
+    message?: string;
+  }
+
+  const { register, handleSubmit, reset } = useForm<FormValues>({
     defaultValues: { founder: preFounder }
   });
 
