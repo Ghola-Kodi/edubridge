@@ -1,0 +1,11 @@
+
+
+json
+{
+  "build": {
+    "env": {
+      "NPM_FLAGS": "--include=dev"
+    }
+  },
+  "installCommand": "npm ci --include=dev"
+}
