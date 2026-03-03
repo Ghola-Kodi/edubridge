@@ -1,6 +1,5 @@
 "use client";
-import { useSearchParams } from "next/navigation";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useForm } from "react-hook-form";
 import toast from "react-hot-toast";
 
@@ -20,9 +19,14 @@ const FOUNDERS = [
 const TIME_SLOTS = ["09:00 AM", "10:00 AM", "11:00 AM", "01:00 PM", "02:00 PM", "03:00 PM", "04:00 PM"];
 
 export default function BookConsultation() {
-  const params = useSearchParams();
-  const preFounder = params.get("founder") ?? "helen";
+  const [preFounder, setPreFounder] = useState("helen");
   const [success, setSuccess] = useState(false);
+
+  useEffect(() => {
+    // read query param from window since this is a client component
+    const params = new URLSearchParams(window.location.search);
+    setPreFounder(params.get("founder") ?? "helen");
+  }, []);
   interface FormValues {
     name: string;
     email: string;
