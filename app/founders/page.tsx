@@ -5,7 +5,7 @@ import mwangiImg from "@/app/images/man03.jpg";
 
 const founders = [
   {
-    name: "Helen Nduhiu",
+    name: "Hellen Nduhiu",
     title: "Co-Founder & CEO",
     slug: "helen",
     bio: `HELLEN NDUHIU – Visionary Education Leader | School Principal | International Curriculum Trainer | Education Consultant
