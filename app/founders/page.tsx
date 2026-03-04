@@ -14,15 +14,6 @@ Professional Brand Profile
 
 Hellen Nduhio is a visionary and transformational education leader with a passion for building schools, empowering teachers, and shaping globally competent learners. With over a decade of experience in education and school leadership, she brings a unique blend of academic excellence, strategic leadership, and compassionate mentorship to the institutions and communities she serves.
 
-
-
-
-
-
-
-
-
-
 Through her education consultancy work, Hellen supports schools transitioning to international standards, trains teachers on global best practices, and mentors education leaders on building sustainable, high-quality institutions. Her work focuses on equipping educators with practical skills, strong pedagogy, and leadership capacity to thrive in modern classrooms.
 Speaker & Mentor
 Hellen is also a passionate mentor and speaker, especially in empowering educators, school leaders, youth, and women to lead purposeful and impactful lives. She advocates for continuous growth, resilience, and excellence in both personal and professional spaces.
