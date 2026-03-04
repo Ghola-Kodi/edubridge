@@ -8,7 +8,7 @@ const founders = [
     name: "Helen Nduhio",
     title: "Co-Founder & CEO",
     slug: "helen",
-    bio: `HELLEN NDUHIU – Visionary Education Leader | School Principal | International Curriculum Trainer | Education Consultant
+    bio: `HELLEN NDUHIO – Visionary Education Leader | School Principal | International Curriculum Trainer | Education Consultant
 
 Professional Brand Profile
 
