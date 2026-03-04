@@ -20,7 +20,7 @@ Hellen is also a passionate mentor and speaker, especially in empowering educato
 
  `,
     qualifications: ["M.Ed Education Leadership – University of Nairobi", "Cambridge International Trainer", "IB Curriculum Consultant", "School Governance Specialist"],
-    email: "helen@edbridgeglobal.com",
+    email: "hellen@edbridgeglobal.com",
     image: helenImg
   },
   {
