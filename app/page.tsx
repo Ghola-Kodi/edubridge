@@ -153,7 +153,7 @@ export default function HomePage() {
           <div className="divider mx-auto mb-12"/>
           <div className="grid md:grid-cols-2 gap-8">
             {[
-              {name:"Helen Nduhio",    title:"Co-Founder & CEO",                      slug:"helen", img: helenImg},
+              {name:"Hellen Nduhiu",    title:"Co-Founder & CEO",                      slug:"hellen", img: helenImg},
               {name:"Mwangi Njoroge",  title:"Co-Founder & Director of Operations",   slug:"mwangi", img: mwangiImg},
             ].map(f=>(
               <div key={f.slug} className="bg-white rounded-xl overflow-hidden shadow-sm border border-border flex flex-col">
