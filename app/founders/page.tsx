@@ -5,14 +5,14 @@ import mwangiImg from "@/app/images/man03.jpg";
 
 const founders = [
   {
-    name: "Helen Nduhio",
+    name: "Helen Nduhiu",
     title: "Co-Founder & CEO",
     slug: "helen",
-    bio: `HELLEN NDUHIO – Visionary Education Leader | School Principal | International Curriculum Trainer | Education Consultant
+    bio: `HELLEN NDUHIU – Visionary Education Leader | School Principal | International Curriculum Trainer | Education Consultant
 
 Professional Brand Profile
 
-Hellen Nduhio is a visionary and transformational education leader with a passion for building schools, empowering teachers, and shaping globally competent learners. With over a decade of experience in education and school leadership, she brings a unique blend of academic excellence, strategic leadership, and compassionate mentorship to the institutions and communities she serves.
+Hellen Nduhiu is a visionary and transformational education leader with a passion for building schools, empowering teachers, and shaping globally competent learners. With over a decade of experience in education and school leadership, she brings a unique blend of academic excellence, strategic leadership, and compassionate mentorship to the institutions and communities she serves.
 
 Through her education consultancy work, Hellen supports schools transitioning to international standards, trains teachers on global best practices, and mentors education leaders on building sustainable, high-quality institutions. Her work focuses on equipping educators with practical skills, strong pedagogy, and leadership capacity to thrive in modern classrooms.
 Speaker & Mentor
